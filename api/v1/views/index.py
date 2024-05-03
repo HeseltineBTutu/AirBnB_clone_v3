@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 Module for defining routes for API v1 views.
 """
